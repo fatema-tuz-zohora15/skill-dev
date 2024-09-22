@@ -1,0 +1,19 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.box{
+    background-color: black;
+}
+.d-flex{
+    margin-top: 10px;
+
+}
+.bg{
+    background-color: black;
+    height: 100%;
+    width: 100%;
+    opacity: 50%;
+    margin-top: 0;
+    margin-left: 0;
+    position: absolute;
+}
